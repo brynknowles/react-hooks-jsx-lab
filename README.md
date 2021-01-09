@@ -25,18 +25,18 @@ your work.
 
 ### NavBar
 
-The `<NavBar>` component should return the following JSX elements:
+<!-- The `<NavBar>` component should return the following JSX elements:
 
 - a `<nav>` element
 - inside the nav element, there should be two child elements:
   - an `<a>` element, with the `href` attribute set to `#home`, and the content
     of "Home"
   - an `<a>` element, with the `href` attribute set to `#about`, and the content
-    of "About"
+    of "About" -->
 
 ### Home
 
-Inside the `<Home>` component, there are a couple of variables defined that will
+<!-- Inside the `<Home>` component, there are a couple of variables defined that will
 allow you to insert your name and city into the portfolio page.
 
 The `<Home>` component should return the following JSX elements:
@@ -46,18 +46,18 @@ The `<Home>` component should return the following JSX elements:
   - a `<h1>` element, with the `style` attribute set to a color of "firebrick",
     and the content of "Your Name is a Web Developer from Your City"
   - use the imported `name` and `city` variables within the component, and the
-    JSX expression syntax to use the variables inside your JSX elements
+    JSX expression syntax to use the variables inside your JSX elements -->
 
 ### About
 
-The `<About>` component should return the following JSX elements:
+<!-- The `<About>` component should return the following JSX elements:
 
 - a `<div>` element with an id of "about"
 - inside the div element, there should be three child elements:
   - a `<h2>` element with the content of "About Me"
   - a `<p>` element with any content of your choosing
   - a `<img>` element with the `src` attribute set to the `image` variable, and
-    the `alt` attribute set to "I made this"
+    the `alt` attribute set to "I made this" -->
 
 ## Resources
 
